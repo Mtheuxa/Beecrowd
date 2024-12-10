@@ -23,7 +23,7 @@ Exercícios da plataforma Beecrowd.
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram utilizadas no desenvolimento do projeto.
+As seguintes ferramentas foram utilizadas para solucionar as questões.
 
 * [![My Skills](https://skillicons.dev/icons?i=c,postgres)](https://skillicons.dev)
 
